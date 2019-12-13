@@ -8,5 +8,5 @@ function theBeatlesPlay(musicians, instruments)
     var temp = alert(musicians[i]) + " " + alert(instruments[i]);
     x.push(temp);
   }
-  }
+  return x;
 }
