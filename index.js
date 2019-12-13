@@ -14,7 +14,7 @@ function johnLennonFacts(facts)
 {
   var i=0;
   var excl = [];
-  while(i <= 4)
+  while(i <= facts.length)
   {
    excl[i] = facts[i]+"!!!" 
    i++
