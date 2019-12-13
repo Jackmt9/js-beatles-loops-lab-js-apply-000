@@ -27,5 +27,5 @@ function iLoveTheBeatles(n)
   do{
     x.push("I love the Beatles!")
   }
-  while()
+  while(n < 15)
 }
