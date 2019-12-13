@@ -6,7 +6,7 @@ function theBeatlesPlay(musicians, instruments)
   for(var i=0; i < counter; i++)
   {
     var temp = musicians + instruments;
-    arr.push(temp);
+    x.push(temp);
   }
   }
 }
