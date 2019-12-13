@@ -2,5 +2,10 @@
 function theBeatlesPlay(musicians, instruments)
 {
   var x = [];
-  for(var i=1; i<counter; i++)
+  var counter = 1;
+  for(var i=1; i < counter; i++)
+  {
+    
+  }
+  }
 }
