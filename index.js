@@ -1,6 +1,6 @@
 // add solution here
-function theBeatlesPlay(array musicians, array instruments)
+function theBeatlesPlay(musicians, instruments)
 {
-  array x;
+  array x = {}
   
 }
